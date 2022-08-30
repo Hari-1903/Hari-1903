@@ -3,10 +3,10 @@ I am pursuing B.Tech Computer Science and Engineering w/s AIML from SRM Institut
 <br><br><div align="center"><img  src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="300px"/></div>
 
 <br><br><h2>🌱 What do I do and What have I done? </h2>
--   :computer: Core Technical member in IEEE, Directorate of Alumini Affairs & Nextgen AI.<br>
+-   :computer: Core Technical member in Directorate of Alumini Affairs & Nextgen AI.<br>
 -   :monocle_face: I have redesinged and developed a website with a team for a client.<br>
 -   📖 Currently learning C++ and node.js<br>
--   👨‍💼 Sponsorship Lead in IEEE student branch.<br>
+-   👨‍💼 Sponsorship Lead and a Learning technical member in IEEE student branch.<br>
 -   🔎 Looking for working in Front-end development and AI/ML projects.
    
 <br><h2>🚀 Languages and Tools:</h2>
