@@ -1,39 +1,33 @@
-<h1 align="center">👋 Hi there! I'm Hari</h1>
-Throughout my life, I have been deeply fascinated by computers, from their practical use to their complex inner workings. As an enthusiastic second-year student at SRMIST, Kattankulathur, I am committed to expanding my knowledge and skills in this ever-evolving field.
-Initially, my curiosity was focused solely on their practical use, but it gradually evolved into a passionate pursuit of comprehending how a conglomeration of fundamental ideas and components can coalesce to give rise to a multifaceted and flexible entity such as a computer. As an enthusiast in web development and machine learning, my fervor for this field continues to flourish.
-<br><br><div align="center"><img  src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="300px"/></div>
-
-<br><br><h2>🌱 What do I do and What have I done? </h2>
--   :computer: Core Technical member in Coding Ninjas & Nextgen AI.<br>
--   :monocle_face: I have created and designed many websites<br>
--   📖 Currently learning django and ML<br>
--   👨‍💼 Sponsorship and Marketing Head in IEEE student branch<br>
--   🔎 Intrested in Collabrating in Web-development and AI/ML projects
+<h1 align="center">
    
-<br><h2>🚀 Languages and Tools:</h2>
-<p> 
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,c,cpp,py" />
-  </a>
-</p>
+   Hey there, I'm [Harinarayanan R][WEBSITE] 😎
+</h1>
+<div align="center">
+   <img  src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="500px"/>
+</div>
 
-<br><h3>Connect with me:
-  <a href="https://www.instagram.com/hari.narayanan_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="20" height="auto"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harinarayanan-r//" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="auto"/>
-  </a>
- </h3>
 
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<div>
+  <p align="center">
+ As an aspiring engineering graduate from SRMIST, Kattankulathur, my passion lies in coding and its applications. I take great pleasure in exploring the intricacies of programming and finding solutions to problems. I am particularly enthusiastic about web development and machine learning. These areas of computer science continue to inspire and challenge me as I explore their possibilities. 
+  </p>
+</div>
+<br/>
+<div align="center">
+  <h2>Languages, Frameworks & Tools</h2>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,html,css,tailwind,js,react,c,cpp,py,mysql,netlify,vercel,vscode" alt="skills logos" />
+  <br /> 
+  <h2>Actively Learning</h3>
+  <img src="https://skillicons.dev/icons?i=ts,threejs,aws,firebase" alt="skills actively learning logos">
+</div>
+
+<h2 align="center"> Let's get in touch </h2>
+<div align="center">
+  <a href="mailto:hnnair1903@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harinarayanan-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hari.narayanan_/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</div>
+  
+[WEBSITE]: https://harinarayanan.xyz
