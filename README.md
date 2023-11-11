@@ -3,7 +3,7 @@
    Hey there, I'm [Harinarayanan R][WEBSITE] 😎
 </h1>
 <div align="center">
-   <img  src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="500px"/>
+   <img  src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="400px"/>
 </div>
 
 
